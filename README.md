@@ -30,4 +30,4 @@ pip install opencv-python numpy
 
 ### 1. Clone the repository
 ```bash
-https://github.com/Bhavya-6684/Face_eye-detection/edit/main
+https://github.com/Bhavya-6684/Face_eye-detection/blob/main/Face%20detction.py
